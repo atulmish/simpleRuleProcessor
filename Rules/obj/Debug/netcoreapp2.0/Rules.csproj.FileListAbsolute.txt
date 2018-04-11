@@ -1,0 +1,11 @@
+C:\code\BRE-ExpressionTrees\Rules\Rules\obj\Debug\netcoreapp2.0\Rules.csprojResolveAssemblyReference.cache
+C:\code\BRE-ExpressionTrees\Rules\Rules\obj\Debug\netcoreapp2.0\Rules.csproj.CoreCompileInputs.cache
+C:\code\BRE-ExpressionTrees\Rules\Rules\obj\Debug\netcoreapp2.0\Rules.AssemblyInfoInputs.cache
+C:\code\BRE-ExpressionTrees\Rules\Rules\obj\Debug\netcoreapp2.0\Rules.AssemblyInfo.cs
+C:\code\BRE-ExpressionTrees\Rules\Rules\bin\Debug\netcoreapp2.0\Rules.deps.json
+C:\code\BRE-ExpressionTrees\Rules\Rules\bin\Debug\netcoreapp2.0\Rules.runtimeconfig.json
+C:\code\BRE-ExpressionTrees\Rules\Rules\bin\Debug\netcoreapp2.0\Rules.runtimeconfig.dev.json
+C:\code\BRE-ExpressionTrees\Rules\Rules\bin\Debug\netcoreapp2.0\Rules.dll
+C:\code\BRE-ExpressionTrees\Rules\Rules\bin\Debug\netcoreapp2.0\Rules.pdb
+C:\code\BRE-ExpressionTrees\Rules\Rules\obj\Debug\netcoreapp2.0\Rules.dll
+C:\code\BRE-ExpressionTrees\Rules\Rules\obj\Debug\netcoreapp2.0\Rules.pdb
